@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap:https://amosasaana.github.io/Projects/sitemap.xml
